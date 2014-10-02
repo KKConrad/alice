@@ -1,0 +1,107 @@
+.bold {
+    font-weight: bold;
+
+}
+.big {
+    font-size: 30px;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.color {
+    background-color: #999;
+}
+
+.size {
+    font-size: 12px;
+}
+
+.margin {
+    margin: 1em;
+}
+.fontstyle {
+    font-family: cursive;
+}
+.border {
+    border-bottom: 2px solid black;
+}
+
+.h1rule {
+    border-bottom: 2px groove white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.border {
+    border-radius: 5px;
+}
+.boxshadow {
+    box-shadow: 0 0 0 rgba(0,0,0,1);
+}
+.div {
+    height:105px;
+    width:100%;
+    border-color:#6495ED;
+    background-color:#BCD2EE;
+    border-style:solid;
+    max-width:540px;
+    margin: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.container {
+    max-height: 500px;
+    max-width: 540px;
+    width: 100%;
+    background-color: beige;
+    text-align: justify;
+    overflow: scroll;
+    overflow: auto;
+    margin:0 auto;
+    border-radius: 5px;
+    padding: 1em;
+    box-shadow: 3px 2px 5px rgba(0,0,0,1);
+}
+
+.picturepadding {
+    margin: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px rgba(0,0,0,1);
+}
+
+.picturepaddingtwo{
+    margin-bottom: 20px;
+    align-content: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.picturepaddingthree {
+    align-content: center;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px rgba(0,0,0,1);
+
+}
+
+.fontstyle2 {
+    font-family: Lobster;
+}
+
+.nav {
+    width: 200px;
+    background-color: cornflowerblue;
+}
+
+.aligncenter {
+    text-align: center;
+}
+.aligncentertwo {
+    text-align: justify;
+    margin:auto;
+}
+
+.bg {
+    background-color: skyblue;
+}
